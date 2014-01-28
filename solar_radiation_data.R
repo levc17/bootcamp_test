@@ -19,3 +19,7 @@ y<-as.integer(y)
 is.integer(y)
 
 (z<-x*y)
+
+#double check
+is.integer(z)
+
